@@ -44,7 +44,7 @@
 ### 🚀 What I'm Working On
 
 - 🤖 Designing and deploying **AI agents** for real-world automation
-- 🩻 Exploring how AI can support **clinical workflows and diagnostics**
+- 🩻 Exploring how AI can support **how ai help imrpove daily life**
 - 🌐 Building web apps and tools with modern JavaScript frameworks
 - 📚 Continuously learning — one commit at a time
 
